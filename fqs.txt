@@ -1,0 +1,6 @@
+CMV_1	${DIR_FQ}/CMV_1_1.clean.fq.gz	${DIR_FQ}/CMV_1_2.clean.fq.gz
+CMV_2	${DIR_FQ}/CMV_2_1.clean.fq.gz	${DIR_FQ}/CMV_2_2.clean.fq.gz
+CMV_3	${DIR_FQ}/CMV_3_1.clean.fq.gz	${DIR_FQ}/CMV_3_2.clean.fq.gz
+U6_1	${DIR_FQ}/U6_1_1.clean.fq.gz	${DIR_FQ}/U6_1_2.clean.fq.gz
+U6_2	${DIR_FQ}/U6_2_1.clean.fq.gz	${DIR_FQ}/U6_2_2.clean.fq.gz
+U6_3	${DIR_FQ}/U6_3_1.clean.fq.gz	${DIR_FQ}/U6_3_2.clean.fq.gz
